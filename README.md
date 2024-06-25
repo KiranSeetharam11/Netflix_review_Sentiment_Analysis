@@ -64,5 +64,5 @@ To run this project locally, ensure you have the following libraries installed:
 - Use custom input and check to see how classification works.
 ## ER Diagram
 
-![ER Diagram](https://github.com/KiranSeetharam11/Cheque-Details-Recognition/blob/main/Cheque%20ER.png)
+![ER Diagram](https://github.com/KiranSeetharam11/Netflix_review_Sentiment_Analysis/blob/main/Latest.png)
 
